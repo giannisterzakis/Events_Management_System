@@ -1,0 +1,21 @@
+D:\University 2020-2021\C#\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.csprojAssemblyReference.cache
+D:\University 2020-2021\C#\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.Form1.resources
+D:\University 2020-2021\C#\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.Properties.Resources.resources
+D:\University 2020-2021\C#\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.csproj.GenerateResource.cache
+D:\University 2020-2021\C#\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.csproj.CoreCompileInputs.cache
+D:\University 2020-2021\C#\Week 8 !\EventsManagementSystem\bin\Debug\EventsManagementSystem.exe.config
+D:\University 2020-2021\C#\Week 8 !\EventsManagementSystem\bin\Debug\EventsManagementSystem.exe
+D:\University 2020-2021\C#\Week 8 !\EventsManagementSystem\bin\Debug\EventsManagementSystem.pdb
+D:\University 2020-2021\C#\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.exe
+D:\University 2020-2021\C#\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.pdb
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventsManagementSystem\bin\Debug\EventsManagementSystem.exe.config
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventsManagementSystem\bin\Debug\EventsManagementSystem.exe
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventsManagementSystem\bin\Debug\EventsManagementSystem.pdb
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.csproj.AssemblyReference.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.csproj.SuggestedBindingRedirects.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.Form1.resources
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.Properties.Resources.resources
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.csproj.GenerateResource.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.csproj.CoreCompileInputs.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.exe
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventsManagementSystem\obj\Debug\EventsManagementSystem.pdb
